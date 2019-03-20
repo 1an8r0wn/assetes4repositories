@@ -66,7 +66,6 @@
 
   // load after all srcs loaded
   const windowSrcs = [
-    'js/leancloud.js',
     'js/share.js',
     'js/mathjax.js'
   ].map(item => `${root}${item}`);
