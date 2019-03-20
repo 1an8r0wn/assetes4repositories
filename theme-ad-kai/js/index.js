@@ -59,7 +59,6 @@
     'js/layer.js',
     'js/scroll.js',
     'js/backTop.js',
-    'js/time.js',
     'js/header.js',
     'js/passage.js'
   ].map(item => `${root}${item}`);
