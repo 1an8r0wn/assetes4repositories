@@ -56,7 +56,6 @@
 
   // load after DOM built
   const documentSrcs = [
-    'js/copy.js',
     'js/layer.js',
     'js/scroll.js',
     'js/backTop.js',
@@ -69,7 +68,6 @@
   const windowSrcs = [
     'js/leancloud.js',
     'js/share.js',
-    'js/reward.js',
     'js/mathjax.js'
   ].map(item => `${root}${item}`);
 
